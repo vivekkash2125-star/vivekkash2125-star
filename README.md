@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Vivek%20Jaiswal&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 </p>
 
 <!-- Name & Subtitle -->
